@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/drawable/border.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/drawable/drawable.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/drawable/drawable2.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/layout/aca.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/layout/activity_main.xml" value="0.12284701114488349" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/layout/arr_line.xml" value="0.264" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/layout/main.xml" value="0.1375" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/layout/mainactivity.xml" value="0.264" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/layout/stationinfo_line.xml" value="0.12284701114488349" />
+        <entry key="..\:/Users/dhals/AndroidStudioProjects/BusApp/app/src/main/res/layout/stationinfoactivity.xml" value="0.11865942028985507" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
