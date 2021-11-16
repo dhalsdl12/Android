@@ -1,2 +1,2 @@
 # Android Studio
-# Bus information App (Daegu)
+# Daegu Bus information App
